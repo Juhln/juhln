@@ -2,28 +2,29 @@
 
 I build marketing systems for startups that have traction, but don't have a full marketing team yet.
 
-I'm a senior hands-on Founding Marketer and Marketing Systems Builder. I work across GTM, CRM, content, websites, lifecycle, analytics and AI — turning fragmented marketing into systems that teams can actually operate.
+I'm a senior hands-on Founding Marketer and Marketing Systems Builder. I work across GTM, CRM, content, websites, lifecycle, analytics and AI. I turn fragmented marketing into systems that teams can actually operate.
 
 ## What I build
 
-- **Founding Marketing systems** — positioning, messaging, GTM, pipeline and marketing operations
-- **Marketing infrastructure** — CRM, automation, analytics and MarTech
-- **AI-native marketing workflows** — skills, agents and systems that help marketers build and operate faster
-- **Content & distribution systems** — research, production, repurposing, SEO/AEO and measurement
-- **Websites as GTM infrastructure** — strategy, positioning, conversion, analytics and launch
-- **Products & experiments** — because I learn best by building
+- **Founding marketing systems**: positioning, messaging, GTM, pipeline and marketing operations
+- **Marketing infrastructure**: CRM, automation, analytics and MarTech
+- **AI-native marketing workflows**: skills, agents and systems that help marketers build and operate faster
+- **Content & distribution systems**: research, production, repurposing, SEO/AEO and measurement
+- **Websites as GTM infrastructure**: strategy, positioning, conversion, analytics and launch
 
 Strong beaver energy: I like building things. 🦫
 
 <p align="center">
-  <img src="DIRECT_GIF_URL" width="300" alt="A beaver building a dam">
+  <img src="./pbs%20beaver%20GIF.gif" width="300" alt="A beaver building a dam">
 </p>
 
-## About me
+## Things I'm building
 
-I've spent my career building and running marketing functions, usually where there is a lot to figure out and not much infrastructure yet.
+**Kola**: a pet health & care app spanning product, UX, systems and GTM.
 
-I like understanding how the pieces fit together, then building the system behind the work.
+**Enisite**: my side business building AI-powered websites and lightweight marketing systems for SMBs.
+
+Their codebases are private, but the products aren't.
 
 ## Before vibe coding was a thing
 
