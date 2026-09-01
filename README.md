@@ -20,9 +20,9 @@ Strong beaver energy: I like building things. 🦫
 
 ## Things I'm building
 
-**Kola**: a pet health & care app spanning product, UX, systems and GTM.
+- **Kola**: a pet health & care app spanning product, UX, systems and GTM.
 
-**Enisite**: my side business building AI-powered websites and lightweight marketing systems for SMBs.
+- **Enisite**: my side business building AI-powered websites and lightweight marketing systems for SMBs.
 
 Their codebases are private, but the products aren't.
 
