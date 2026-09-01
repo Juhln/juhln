@@ -4,11 +4,7 @@ I build marketing systems for startups that have traction, but don't have a full
 
 I'm a senior hands-on Founding Marketer and Marketing Systems Builder. I work across GTM, CRM, content, websites, lifecycle, analytics and AI — turning fragmented marketing into systems that teams can actually operate.
 
-Most of what I build currently lives in private repositories, client environments and internal systems.
-
-I'm starting to make more of it public here.
-
-## What I work on
+## What I build
 
 - **Founding Marketing systems** — positioning, messaging, GTM, pipeline and marketing operations
 - **Marketing infrastructure** — CRM, automation, analytics and MarTech
@@ -17,43 +13,30 @@ I'm starting to make more of it public here.
 - **Websites as GTM infrastructure** — strategy, positioning, conversion, analytics and launch
 - **Products & experiments** — because I learn best by building
 
+Strong beaver energy: I like building things. 🦫
+
+<p align="center">
+  <img src="DIRECT_GIF_URL" width="300" alt="A beaver building a dam">
+</p>
+
 ## About me
 
-I've spent my career building and running marketing functions — usually in environments where there is a lot to figure out and not much infrastructure yet.
+I've spent my career building and running marketing functions, usually where there is a lot to figure out and not much infrastructure yet.
 
-I like getting close to the problem, understanding how the pieces fit together, and building the system behind the work.
-
-That can mean designing a GTM motion, restructuring a CRM, rebuilding a website, creating a content engine, automating a workflow or building a small internal tool.
-
-AI has dramatically expanded what I can build myself.
-
-But the builder instinct came first.
+I like understanding how the pieces fit together, then building the system behind the work.
 
 ## Before vibe coding was a thing
 
 In 2019, I joined **SheBuilds** and coded a weather app.
 
-It has absolutely nothing to do with marketing.
+Completely unrelated to marketing. Still keeping it here.
 
-I'm keeping it here anyway.
-
-It reminds me that my tendency to learn by building — and occasionally disappearing down technical rabbit holes — predates Claude Code, AI agents and vibe coding by quite a few years.
-
-→ **https://github.com/Juhln/My-weather-app**
+The builder instinct came first.
 
 ## What you'll find here
 
 Most of my production work is still private.
 
-I'm gradually turning some of the reusable systems, workflows and experiments I've built into public repositories.
+I'm gradually turning reusable systems, workflows and experiments into public repositories.
 
-Expect things around:
-
-- marketing systems
-- AI workflows and skills
-- GTM frameworks
-- content operations
-- website systems
-- marketing automation
-
-More public repositories coming soon.
+**More public repos coming soon.**
