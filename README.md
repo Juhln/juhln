@@ -26,14 +26,6 @@ Strong beaver energy: I like building things. 🦫
 
 Their codebases are private, but the products aren't.
 
-## Before vibe coding was a thing
-
-In 2019, I joined **SheBuilds** and coded a weather app.
-
-Completely unrelated to marketing. Still keeping it here.
-
-The builder instinct came first.
-
 ## What you'll find here
 
 Most of my production work is still private.
