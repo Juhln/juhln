@@ -15,7 +15,7 @@ I'm a senior hands-on Founding Marketer and Marketing Systems Builder. I work ac
 Strong beaver energy: I like building things. 🦫
 
 <p align="center">
-  <img src="./pbs%20beaver%20GIF.gif" width="300" alt="A beaver building a dam">
+  <img src="pbs beaver GIF.gif" width="300" alt="A beaver building a dam">
 </p>
 
 ## Things I'm building
